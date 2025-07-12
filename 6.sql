@@ -1,5 +1,5 @@
 select 
-	Name
+	Name "Название товара"
 from
 	Products
 where 
