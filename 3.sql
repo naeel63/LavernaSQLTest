@@ -1,5 +1,5 @@
 select 
-	avg(sum)
+	avg(sum) "Средняя сумма продаж для товара Фанера"
 from
 	Sells s
 	inner join Products p
