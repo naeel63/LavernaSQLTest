@@ -1,5 +1,5 @@
 select 
-	Fio
+	Fio "Фио сотрудника"
 from 
 	Managers m
 where 
