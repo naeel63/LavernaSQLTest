@@ -1,6 +1,6 @@
 select 
-	Fio,
-	sum(s.sum)
+	Fio "ФИО менеджера",
+	sum(s.sum) "Сумма продаж по ОСБ"
 from
 	Managers m
 	inner join Sells s 
