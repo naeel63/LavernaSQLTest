@@ -3,4 +3,5 @@ select
 	count(0)
 from
 	Sells
-where Date = '2025-06-25'
+where 
+	Date = '2025-06-25'
